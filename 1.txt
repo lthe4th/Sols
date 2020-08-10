@@ -1,0 +1,64 @@
+ブラウザが固まってしまう    かたまる    browser bị treo
+
+＜    小なり(しょうなり)    A＜B：A小なりB
+＞    大なり(だいなり)    A＞B：A大なりB
+≦    小なりイコール    A≦B：A小なりイコールB
+≧    大なりイコール    A≧B：A大なりイコールB
+逐次    ちくじ    làm cuốn chiếu
+刷新    さっしん    新しく作り直す    システムの刷新とかね。Aシステム⇒Bシステムへシステムを置き換える。そのような時に、Bシステムに刷新した。って言う。
+経験・体験を活かす  OR 深く反省する        rút kinh nghiệm (sâu sắc)
+積み残し        tồn đọng
+照らし合わせる        So sánh, đối chiếu
+不調        Tình trạng xấu, không ổn định        Vd: サーバー不調
+
+業務コード値表示名称に重複が散見されます。
+　　・契約設備機種コード
+　意図的に重複させているのでしょうか？
+　それとも、記述誤りでしょうか？
+　意図的の場合は、
+　その意図を含めたenum値を設定する必要がありますので、
+　回答をお願いします。
+
+五月雨式で申し訳ございません        kiểu việc gì cứ kéo dài dai dẳng, lặp đi lặp lại hoài ko dứt như mưa tháng 5
+意図した重複です        Trùng lặp có chủ đích
+支障を来たす    ししょうをきたす    rắc rối, khó khăn, trở ngại
+下限を下回る場合        thấp hơn mức tối thiểu
+加重平均        bình quân gia quyền
+
+
+
+
+
+
+半角英数字 (英数)        cả chữ (alphabet) và số
+句点    くてん    Dấu chấm câu ( Kiểu Nhật)。
+ピリオド         Dấu chấm câu．
+読点    とうてん    Dấu phẩy ( Kiểu Nhật)、
+カンマ        Dấu phẩy，
+中点, 中黒    なかてん, なかぐろ    Dấu chấm ở giữa(･)
+疑問符    ぎもんふ    Dấu chấm hỏi ？
+感嘆符    かんたんふ    Dấu chấm than ！
+コロン        Dấu hai chấm ：
+句読点、セミコロン    くとうてん    Dấu chẩm phẩy　；
+したせん（アンダーライン）        Gạch ngang phía dưới　_
+なかせん（ダッシュ、ハイフン）        Gạch ngang　-　
+スラッシュ        Gạch chéo　/　
+バックスラッシュ 、バック        \
+波線、波系    なみせん、なみけい    dấu hình sóng ～
+プラス        Dấu cộng＋
+マイナス        Dấu trừ－
+カッコ、小カッコ         Ngoặc đơn （）
+中カッコ         ｛｝
+大カッコ        ［ ］
+カギカッコ        「」
+きっこうカッコ        〔〕
+山カッコ        〈〉
+引用符, ダブルクォーテーション    （いんようふ）    Dấu ngoặc kép“
+星印    ほしじるし    Dấu sao ＊
+米印    こめじるし    Dấu hoa thị　※
+アンパサンド         Và ＆
+アクサンシルコンフレクス        Dấu nháy ^
+パーセント        Phần trăm％
+ナンバー、シャープ        Dấu thăng ＃
+アットマーク        A còng ＠
+三点（さんてん）リーダ        Dấu ba chấm …        
